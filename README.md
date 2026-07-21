@@ -1,2 +1,1 @@
-# radar-inversion
-Análisis de oportunidades inmobiliarias en Cataluña
+# Radar Inversión v1
